@@ -2,7 +2,7 @@
 
 # Building Defenses with Modern Security Solutions
 
-[BLOG TABLE OF CONTENTS](https://github.com/SpiderLabs/zpminternational/blob/main/POSTS/TOC.md)
+[BLOG TABLE OF CONTENTS](https://github.com/SpiderLabs/zpminternational/blob/main/TOC.md)
 
 [LAB TABLE OF CONTENTS](https://github.com/SpiderLabs/zpminternational/blob/main/LABS/TOC.md)
 
