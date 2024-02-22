@@ -2,9 +2,9 @@
 
 # Building Defenses with Modern Security Solutions
 
-[BLOG TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/TOC.md)
+[BLOG TABLE OF CONTENTS](https://github.com/SpiderLabs/zpminternational/blob/main/POSTS/TOC.md)
 
-[LAB TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/LABS/TOC.md)
+[LAB TABLE OF CONTENTS](https://github.com/SpiderLabs/zpminternational/blob/main/LABS/TOC.md)
 
 ## Lab Backstory: "ZPM International: Architecting Security Defenses Against APT 42a"
 
