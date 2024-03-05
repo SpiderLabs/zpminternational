@@ -30,7 +30,7 @@ PART TWO: THE EXECUTION
 	- Access reviews
 	- Secure Scores and Recommendations
 	- SOAR
-	- AiCS: DLP and Data Protection
+	- DLP and Data Protection
 	- Encryption
 
 PART THREE: "SOMETHING WICKED"
