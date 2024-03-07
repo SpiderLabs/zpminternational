@@ -10,7 +10,7 @@ The objectives for this stage will be as follows:
 	- Asset Inventory
 	- SecOps
 	- Identity management
-	- CSPM CNAPP CIEM CWPP Oh My!
+	- CSPM CNAPP CIEM CWPP (Oh My!)
 	- SIEM
 	- EDR
 	- Threat Intelligence
