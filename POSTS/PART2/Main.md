@@ -1,4 +1,4 @@
-# PART 1: THE EXECUTION
+# PART 2: THE EXECUTION
 
 Now that an architecture has been approved by your CISO, it's time to start implementing actual security solutions.
 
