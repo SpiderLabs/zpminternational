@@ -1,4 +1,4 @@
-PART 1: THE PLAN
+#PART 1: THE PLAN
 
 ZPM International has given you a directive to build out a modern, enterprise security architecture.
 
