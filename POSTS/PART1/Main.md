@@ -8,4 +8,8 @@ Standards Based - using both compliance standards and the cloud provider's guida
 
 Scalable Architecture - use the cloud provider's guidance in developing an architecture that can grow without having to re-think the 'foundational steps' every time.
 
+Cost Management - include methods/procedures for monitoring and reporting on all security operations costs.
+
+CISO Assurances - Present a solution that will give your CISO confidence in the organization's ability to effectively perform Security Operations.
+
 
