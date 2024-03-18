@@ -1,6 +1,6 @@
 ## Something Wicked...
 
-With all of your security implementations in place, the SOC operations team begin observng some concerning activity.
+With all of your security implementations in place, the SOC operations team begin observing some concerning activity.
 
 Use all of your security tools and processes/procedures to peform the following actions:
 - Processes: List all processes/procedures that your SecOps team follows on a daily/weekly basis in order to detect, alert, and respond to an incident
