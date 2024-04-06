@@ -44,7 +44,7 @@ The Problem:
 - Sentinels of Ex Machina: Defending AI Architectures
 
 
-## FINAl EPISODE:
+## FINAL EPISODE:
 - Cyber Security Defenses: The Journey
 
 ## REFERENCES
