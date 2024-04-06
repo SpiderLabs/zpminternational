@@ -31,6 +31,7 @@ See below for links to the full blog post series or go to the LABS folder for li
 -The Secret Cipher: Modern Data Loss Prevention Solutions
 -Protecting Zion: InfoSec Encryption Concepts and Tips
 ```
+
 ## PART THREE: "SOMETHING WICKED"
 "By the pricking of my thumbs, Something wicked this way comes." (Macbeth: Second Witch, Act 4 Scene 1)
 The Problem:
