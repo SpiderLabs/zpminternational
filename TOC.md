@@ -5,7 +5,7 @@ This is a series of blog posts and labs intended to help educate security admins
 See below for links to the full blog post series or go to the LABS folder for links to the labs.
 
 ```
-PART ONE: THE PLAN
+## PART ONE: THE PLAN
 
 -Architecture Frameworks and Benchmarks
 -Cybersecurity Documentation Essentials
@@ -14,7 +14,7 @@ PART ONE: THE PLAN
 -Security Assessments
 -Important Security Defenses to Help Your CISO Sleep at Night
 
-PART TWO: THE EXECUTION
+## PART TWO: THE EXECUTION
 
 -How to create the asset inventory you probably don't have
 -The Blue Team Manifesto: Improving Security Operations Workflow
@@ -31,7 +31,7 @@ PART TWO: THE EXECUTION
 -The Secret Cipher: Modern Data Loss Prevention Solutions
 -Protecting Zion: InfoSec Encryption Concepts and Tips
 
-PART THREE: "SOMETHING WICKED"
+## PART THREE: "SOMETHING WICKED"
 "By the pricking of my thumbs, Something wicked this way comes." (Macbeth: Second Witch, Act 4 Scene 1)
 The Problem:
 	- APT42a
@@ -44,10 +44,10 @@ The Problem:
 -Sentinels of Ex Machina: Defending AI Architectures
 
 
-FINAl EPISODE:
+## FINAl EPISODE:
 Cyber Security Defenses: The Journey
 
-REFERENCES
+## REFERENCES
 SECURITY CONTROLS TABLE
 
 ```
