@@ -12,7 +12,7 @@ See below for links to the full blog post series or go to the LABS folder for li
 - Cost Management Tips for Cyber Admins
 - Security Assessments
 - Important Security Defenses to Help Your CISO Sleep at Night
-- 
+
 ## PART TWO: THE EXECUTION
 
 - How to create the asset inventory you probably don't have
