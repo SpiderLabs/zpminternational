@@ -35,7 +35,7 @@ Here is the breakdown by lab types (RTL vs AL):
 ## PART THREE: "SOMETHING WICKED"
 "By the pricking of my thumbs, Something wicked this way comes." (Macbeth: Second Witch, Act 4 Scene 1)
 
-# The Problem: - APT42a
+## The Problem: - APT42a
 
 - AL: The Art of Deception: Turning the Tables on Attackers with Active Defenses
 - RTL: Knowing your Enemy: Situational Awareness in Cyber Defenses
