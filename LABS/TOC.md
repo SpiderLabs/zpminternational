@@ -9,12 +9,12 @@ A short getting-started procedure will be provided.
 Here is the breakdown by lab types (RTL vs AL):
 
 ## PART ONE: THE PLAN
-Cloud Architecture Frameworks and Benchmarks
-Cybersecurity Documentation Essentials
-Zero Trust Essentials
-Cost Management Tips for Cyber Admins
-Evaluating Your Security Posture: Security Assessment Basics
-Important Security Defenses to Help Your CISO Sleep at Night
+- RTL: Cloud Architecture Frameworks and Benchmarks
+- RTL: Cybersecurity Documentation Essentials
+- RTL: Zero Trust Essentials
+- RTL: Cost Management Tips for Cyber Admins
+- RTL: Evaluating Your Security Posture: Security Assessment Basics
+- RTL: Important Security Defenses to Help Your CISO Sleep at Night
 
 ## PART TWO: THE EXECUTION
 How to create the asset inventory you probably don't have
