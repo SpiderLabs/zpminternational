@@ -8,7 +8,7 @@ See below for links to the full blog post series or go to the LABS folder for li
 
 - [Architecture Frameworks and Benchmarks](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cloud-architecture-frameworks-and-benchmarks)
 - [Cybersecurity Documentation Essentials](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cybersecurity-documentation-essentials)
-- [Zero Trust Essentials](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/zero-trust-essentials))
+- [Zero Trust Essentials](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/zero-trust-essentials)
 - [Cost Management Tips for Cyber Admins](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cost-management-tips-for-cyber-admins)
 - [Security Assessments](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/evaluating-your-security-posture-security-assessment-basics)
 - Important Security Defenses to Help Your CISO Sleep at Night
