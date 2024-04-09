@@ -1,9 +1,9 @@
 # Welcome to the LABS Section for Cyber Defenses
 ## Overview:
 The labs will vary between 2 types:
-# Round Table Labs (acronym: RTL)
+## Round Table Labs (acronym: RTL)
 Many of these labs are intended as round table discussions.
-# Accelerator Labs (acronym: AL)
+## Accelerator Labs (acronym: AL)
 A short getting-started procedure will be provided.
 
 Here is the breakdown by lab types (RTL vs AL):
