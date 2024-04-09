@@ -6,11 +6,11 @@ See below for links to the full blog post series or go to the LABS folder for li
 
 ## PART ONE: THE PLAN
 
-- [Architecture Frameworks and Benchmarks](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cloud-architecture-frameworks-and-benchmarks)
+- [Cloud Architecture Frameworks and Benchmarks](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cloud-architecture-frameworks-and-benchmarks)
 - [Cybersecurity Documentation Essentials](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cybersecurity-documentation-essentials)
 - [Zero Trust Essentials](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/zero-trust-essentials)
 - [Cost Management Tips for Cyber Admins](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cost-management-tips-for-cyber-admins)
-- [Security Assessments](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/evaluating-your-security-posture-security-assessment-basics)
+- [Evaluating Your Security Posture: Security Assessment Basics](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/evaluating-your-security-posture-security-assessment-basics)
 - Important Security Defenses to Help Your CISO Sleep at Night
 
 ## PART TWO: THE EXECUTION
