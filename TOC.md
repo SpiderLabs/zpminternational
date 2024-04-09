@@ -2,7 +2,7 @@
 
 This is a series of blog posts and labs intended to help educate security admins/architects/auditors on several key topics of cybersecurity.
 
-See below for links to the full blog post series or go to the LABS folder for links to the labs.
+See below for links to the full blog post series or go to the [LABS[(https://github.com/SpiderLabs/zpminternational/blob/main/LABS/TOC.md) folder for links to the labs.
 
 ## PART ONE: THE PLAN
 
