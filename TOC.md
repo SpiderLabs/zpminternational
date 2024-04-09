@@ -6,7 +6,7 @@ See below for links to the full blog post series or go to the LABS folder for li
 
 ## PART ONE: THE PLAN
 
-- Architecture Frameworks and Benchmarks
+- [Architecture Frameworks and Benchmarks](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cloud-architecture-frameworks-and-benchmarks)
 - Cybersecurity Documentation Essentials
 - Zero Trust Essentials
 - Cost Management Tips for Cyber Admins
