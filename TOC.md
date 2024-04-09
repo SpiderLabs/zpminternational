@@ -17,7 +17,7 @@ See below for links to the full blog post series or go to the [LABS](https://git
 
 - How to create the asset inventory you probably don't have
 - The Blue Team Manifesto: Improving Security Operations Workflow
-- Guardians of the Gateway:  Identity and Access Management Best Practices: Copy
+- Guardians of the Gateway:  Identity and Access Management Best Practices
 - CSPM, CNAPP, CIEM, CWPP – Oh My!
 - Seeing Through the Matrix: SIEM Best Practices
 - EDR – The Multi-Tool of Security Defenses
