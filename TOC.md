@@ -23,7 +23,7 @@ See below for links to the full blog post series or go to the [LABS](https://git
 - [EDR – The Multi-Tool of Security Defenses](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/edr-the-multi-tool-of-security-defenses/)
 - The Underdog of Cybersecurity: Uncovering Hidden Value in Threat Intelligence
 - [The Invisible Battleground: Essentials of EASM](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-invisible-battleground-essentials-of-easm/)
-- Cyber Exterminators: Monitoring the Shop Floor with OT Security
+- [Cyber Exterminators: Monitoring the Shop Floor with OT Security](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cyber-exterminators-monitoring-the-shop-floor-with-ot-security/)
 - The Sentinel’s Watch: Building a Security Reporting Framework
 - Clockwork Blue: Automating Security Defenses with SOAR and AI
 - Secure Access Service Edge: Another Multi-Tool for the SOC
