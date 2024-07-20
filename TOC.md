@@ -16,17 +16,17 @@ See below for links to the full blog post series or go to the [LABS](https://git
 ## PART TWO: THE EXECUTION
 
 - [How to create the asset inventory you probably don't have](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/how-to-create-the-asset-inventory-you-probably-dont-have/)
-- The Blue Team Manifesto: Improving Security Operations Workflow
+- [The Blue Team Manifesto: Improving Security Operations Workflow[(https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/tips-for-optimizing-your-security-operations-framework/)
 - [Guardians of the Gateway:  Identity and Access Management Best Practices](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/guardians-of-the-gateway-identity-and-access-management-best-practices/)
 - [CSPM, CNAPP, CIEM, CWPP – Oh My!](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cnapp-cspm-ciem-cwpp-oh-my/)
-- Seeing Through the Matrix: SIEM Best Practices
+- [Scanning the Matrix: SIEM Best Practices](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/scanning-the-matrix-siem-best-practices/)
 - [EDR – The Multi-Tool of Security Defenses](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/edr-the-multi-tool-of-security-defenses/)
-- The Underdog of Cybersecurity: Uncovering Hidden Value in Threat Intelligence
+- [The Underdog of Cybersecurity: Uncovering Hidden Value in Threat Intelligence](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-underdog-of-cybersecurity-uncovering-hidden-value-in-threat-intelligence/)
 - [The Invisible Battleground: Essentials of EASM](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-invisible-battleground-essentials-of-easm/)
 - [Cyber Exterminators: Monitoring the Shop Floor with OT Security](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cyber-exterminators-monitoring-the-shop-floor-with-ot-security/)
 - The Sentinel’s Watch: Building a Security Reporting Framework
-- Clockwork Blue: Automating Security Defenses with SOAR and AI
-- Secure Access Service Edge: Another Multi-Tool for the SOC
+- [Clockwork Blue: Automating Security Defenses with SOAR and AI](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/clockwork-blue-automating-security-defenses-with-soar-and-ai/)
+- [Secure Access Service Edge: Another Multi-Tool for the SOC](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/secure-access-service-edge-another-multi-tool-for-the-soc/)
 - [The Secret Cipher: Modern Data Loss Prevention Solutions](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-secret-cipher-modern-data-loss-prevention-solutions/)
 - [Protecting Zion: InfoSec Encryption Concepts and Tips](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/protecting-zion-infosec-encryption-concepts-and-tips/)
 
