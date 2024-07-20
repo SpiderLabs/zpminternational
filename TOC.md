@@ -16,7 +16,7 @@ See below for links to the full blog post series or go to the [LABS](https://git
 ## PART TWO: THE EXECUTION
 
 - [How to create the asset inventory you probably don't have](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/how-to-create-the-asset-inventory-you-probably-dont-have/)
-- [The Blue Team Manifesto: Improving Security Operations Workflow[(https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/tips-for-optimizing-your-security-operations-framework/)
+- [The Blue Team Manifesto: Improving Security Operations Workflow](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/tips-for-optimizing-your-security-operations-framework/)
 - [Guardians of the Gateway:  Identity and Access Management Best Practices](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/guardians-of-the-gateway-identity-and-access-management-best-practices/)
 - [CSPM, CNAPP, CIEM, CWPP – Oh My!](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cnapp-cspm-ciem-cwpp-oh-my/)
 - [Scanning the Matrix: SIEM Best Practices](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/scanning-the-matrix-siem-best-practices/)
