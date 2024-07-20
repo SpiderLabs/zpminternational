@@ -24,7 +24,7 @@ See below for links to the full blog post series or go to the [LABS](https://git
 - [The Underdog of Cybersecurity: Uncovering Hidden Value in Threat Intelligence](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-underdog-of-cybersecurity-uncovering-hidden-value-in-threat-intelligence/)
 - [The Invisible Battleground: Essentials of EASM](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-invisible-battleground-essentials-of-easm/)
 - [Cyber Exterminators: Monitoring the Shop Floor with OT Security](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cyber-exterminators-monitoring-the-shop-floor-with-ot-security/)
-- The Sentinel’s Watch: Building a Security Reporting Framework
+- [The Sentinel’s Watch: Building a Security Reporting Framework](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-sentinels-watch-building-a-security-reporting-framework/)
 - [Clockwork Blue: Automating Security Defenses with SOAR and AI](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/clockwork-blue-automating-security-defenses-with-soar-and-ai/)
 - [Secure Access Service Edge: Another Multi-Tool for the SOC](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/secure-access-service-edge-another-multi-tool-for-the-soc/)
 - [The Secret Cipher: Modern Data Loss Prevention Solutions](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-secret-cipher-modern-data-loss-prevention-solutions/)
