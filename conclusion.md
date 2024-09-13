@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/SpiderLabs/zpminternational/blob/main/defenderend.jpg" alt="cover" width="300" height="500"
+</p>
 ## CONCLUSION:
 ## Cyber Security Defenses: The Journey
 
