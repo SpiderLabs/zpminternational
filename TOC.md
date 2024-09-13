@@ -39,11 +39,10 @@ The Problem:
 - [The Art of Deception: Turning the Tables on Attackers with Active Defenses](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-art-of-deception-turning-the-tables-on-attackers-with-active-defenses/)
 - [Knowing your Enemy: Situational Awareness in Cyber Defenses](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/knowing-your-enemy-situational-awareness-in-cyber-defenses/)
 - [Cloudy with a Chance of Hackers: Protecting Critical Cloud Workloads](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cloudy-with-a-chance-of-hackers-protecting-critical-cloud-workloads/)
-- [Your Money or Your Data: Ransomware Readiness Planning](www.google.com)
+- [Your Money or Your Data: Ransomware Readiness Planning](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/your-money-or-your-data-ransomware-readiness-planning/)
 - [The Bug Stops Here: Using DevSecOps Workflows for Pest-Free Applications](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-bug-stops-here-using-devsecops-workflows-for-pest-free-applications/)
 - [The Willy Wonka World of Application Security Defenses](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-willy-wonka-world-of-application-security-defenses/)
 - [Sentinels of Ex Machina: Defending AI Architectures](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/sentinels-of-ex-machina-defending-ai-architectures/)
-
 
 ## CONCLUSION:
 - Cyber Security Defenses: The Journey
