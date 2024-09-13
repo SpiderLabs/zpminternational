@@ -22,9 +22,8 @@ Set up **Microsoft Defender for Endpoint** to protect your devices from advanced
 
 1. **Sign Up for a Trial**
 
-   - Visit the [Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-endpoint) page.
+   - Visit the [Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint) page.
    - Click on **Free trial** and sign up using your Microsoft account.
-
 2. **Access the Defender Portal**
 
    - Navigate to the Microsoft 365 Defender portal at [https://security.microsoft.com](https://security.microsoft.com).
