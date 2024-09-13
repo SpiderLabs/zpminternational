@@ -21,3 +21,6 @@ Sam's objectives are to plan, build, and execute an enterprise scale security in
 
 ![image](https://github.com/bobsyourmom/zpminternational/assets/30844252/8e3a1328-569a-4bf6-90b4-5525a8ce3454)
 
+However...one of ZPM's competitors is eager to steal their secrets and destroy their market advantage.
+So they've hired a well known attacker group: APT 42a - let by the notorious hacker with the call sign D0m1nus.
+![image](https://github.com/SpiderLabs/zpminternational/blob/main/backstory/D0m1nus.png)
