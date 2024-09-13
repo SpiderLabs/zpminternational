@@ -19,6 +19,9 @@ Sam's objectives are clear: to plan, build, and execute an enterprise-scale secu
 
 However, not everyone is cheering for ZPM's success. A rival company, eager to steal their secrets and undermine their market advantage, has hired a notorious hacker group known as **APT 42a**. Led by the infamous hacker with the call sign **"D0m1nus"**, APT 42a is plotting to infiltrate ZPM's systems and compromise their valuable intellectual property.
 
+<img src="https://github.com/SpiderLabs/zpminternational/blob/main/backstory/D0m1nus.png" alt="D0m1nus" width="300" height="200">
+
+
 ![image](https://github.com/SpiderLabs/zpminternational/blob/main/backstory/D0m1nus.png)
 
 # Your Mission...
