@@ -15,8 +15,6 @@ The **Chief Information Security Officer (CISO)**, *Sam O'Neil*, is acutely awar
 
 Sam's objectives are clear: to plan, build, and execute an enterprise-scale security infrastructure capable of protecting ZPM International from a broad spectrum of threats.
 
-![image](https://github.com/bobsyourmom/zpminternational/assets/30844252/8e3a1328-569a-4bf6-90b4-5525a8ce3454)
-
 <img src="https://github.com/SpiderLabs/zpminternational/blob/main/backstory/zpminternational.png" alt="zpminternational.jpg" width="400" height="300">
 
 However, not everyone is cheering for ZPM's success. A rival company, eager to steal their secrets and undermine their market advantage, has hired a notorious hacker group known as **APT 42a**. Led by the infamous hacker with the call sign **"D0m1nus"**, APT 42a is plotting to infiltrate ZPM's systems and compromise their valuable intellectual property.
