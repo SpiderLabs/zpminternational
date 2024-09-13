@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/bobsyourmom/zpminternational/blob/main/AiCS%20Title%20Page%2010%20percent.png" alt="cover" width="400" height="400"
+<img src="https://github.com/bobsyourmom/zpminternational/blob/main/AiCS%20Title%20Page%2010%20percent.png" alt="cover" width="400" height="600"
 </p>
 
 # Building Defenses with Modern Security Solutions
