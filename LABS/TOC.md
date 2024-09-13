@@ -10,6 +10,8 @@
 6. [Azure Firewall and Network Security Groups](#6-azure-firewall-and-network-security-groups)
 7. [Microsoft Cloud App Security (MCAS)](#7-microsoft-cloud-app-security-mcas)
 
+[Final Solution - Use Case #1 - Create your own solution!](https://github.com/SpiderLabs/zpminternational/blob/main/LABS/Solution1.md)
+
 ---
 
 ## 1. Microsoft Defender for Endpoint
