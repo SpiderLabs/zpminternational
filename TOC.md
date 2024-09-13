@@ -34,7 +34,8 @@ See below for links to the full blog post series or go to the [LABS](https://git
 "By the pricking of my thumbs, Something wicked this way comes." (Macbeth: Second Witch, Act 4 Scene 1)
 
 The Problem:
-	- APT42a
+	- APT42a is attacking!
+ 	- Using your knowledge from the above cyber topics, and the additional topics below, build an end-to-end cyber solution for ZPM International!
 
 - [The Art of Deception: Turning the Tables on Attackers with Active Defenses](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-art-of-deception-turning-the-tables-on-attackers-with-active-defenses/)
 - [Knowing your Enemy: Situational Awareness in Cyber Defenses](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/knowing-your-enemy-situational-awareness-in-cyber-defenses/)
