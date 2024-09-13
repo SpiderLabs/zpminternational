@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://github.com/bobsyourmom/zpminternational/blob/main/AiCS%20Title%20Page%2010%20percent.png)
+<img src="https://github.com/bobsyourmom/zpminternational/blob/main/AiCS%20Title%20Page%2010%20percent.png"
 </p>
 
 # Building Defenses with Modern Security Solutions
