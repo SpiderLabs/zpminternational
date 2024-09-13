@@ -24,3 +24,10 @@ Sam's objectives are to plan, build, and execute an enterprise scale security in
 However...one of ZPM's competitors is eager to steal their secrets and destroy their market advantage.
 So they've hired a well known attacker group: APT 42a - let by the notorious hacker with the call sign D0m1nus.
 ![image](https://github.com/SpiderLabs/zpminternational/blob/main/backstory/D0m1nus.png)
+
+Your job as the CISO of ZPM international is 'simple' - using your knowledge of modern cyber security practices, develop architectures, implement services and operationalize security defenses to protect your organization!
+
+Use the blog posts and labs provided here to create a solution that meets your objectives.
+
+Good luck!
+
