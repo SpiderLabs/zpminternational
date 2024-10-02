@@ -280,26 +280,4 @@ We will:
 - **Remove test accounts** like **HoneyUser**.
 - **Reset configurations** back to default if this was done in a production environment.
 
----
 
-## **Conclusion**
-
-This practical demonstration showcases how Microsoft's suite of security solutions can detect and respond to various cyber threats in real-time. By following these steps, you can gain hands-on experience with:
-
-- **Endpoint protection** through Defender for Endpoint.
-- **Cloud app security** via Defender for Cloud Apps.
-- **Cloud infrastructure security** with Defender for Cloud.
-- **Information protection** using Azure Entra Information Protection.
-- **Deception techniques** employing honeytoken users.
-
----
-
-**Important Notes**:
-
-- **Legal and Ethical Compliance**: Ensure all simulated attacks are performed within your own controlled environment and comply with all relevant laws and organizational policies.
-- **Data Privacy**: Do not use real user accounts or sensitive data in your simulations.
-- **Security Best Practices**: Always follow security best practices when configuring and deploying security tools.
-
----
-
-By completing this demonstration, you will have a better understanding of how to leverage Microsoft's security solutions to protect against and respond to cyber threats effectively.
