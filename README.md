@@ -1,4 +1,6 @@
+<p align="center">
 # [For the NEW Cover Page, CLICK HERE](https://spiderlabs.github.io/zpminternational/)
+</p>
 
 #
 #
