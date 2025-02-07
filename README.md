@@ -1,10 +1,7 @@
-<p align="center">
-# [For the NEW Cover Page, CLICK HERE](https://spiderlabs.github.io/zpminternational/)
-</p>
 
-#
-#
-#
+# [For the NEW Cover Page, CLICK HERE](https://spiderlabs.github.io/zpminternational/)
+
+
 
 <p align="center">
 <img src="https://github.com/SpiderLabs/zpminternational/blob/main/backstory/AiCSTitlePage.png" alt="cover" width="300" height="500"
